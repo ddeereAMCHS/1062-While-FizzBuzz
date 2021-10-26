@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Output",
+      "setup": "javac FizzBuzz.java",
+      "run": "java FizzBuzz",
+      "input": "",
+      "output": "1\r\n2\r\nFizz\r\n4\r\nBuzz\r\nFizz\r\n7\r\n8\r\nFizz\r\nBuzz\r\n11\r\nFizz\r\n13\r\n14\r\nFizzBuzz\r\n16\r\n17\r\nFizz\r\n19\r\nBuzz\r\nFizz\r\n22\r\n23\r\nFizz\r\nBuzz\r\n26\r\nFizz\r\n28\r\n29\r\nFizzBuzz",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
