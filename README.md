@@ -1,5 +1,7 @@
 # FizzBuzz
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `FizzBuzz.java`
 - Use a while loop to print the numbers from 1 to 100
   - For multiples of 3 print `Fizz` instead of the number
