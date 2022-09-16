@@ -10,7 +10,7 @@
   - If a number is a multiple of 3 and a multiple of 5, it should print `FizzBuzz` instead of the number
 
 ***Example Input:***\
-20
+20\
 ***Example Output:***\
 1\
 2\
