@@ -1,6 +1,6 @@
 # FizzBuzz
 
-## Due: Fri 10/28 at 11:59 PM
+## Due: Fri 10/27 at 11:59 PM
 
 - Create a program called `FizzBuzz.java`
 - Prompt the user for a number
